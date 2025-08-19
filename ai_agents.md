@@ -3,4 +3,4 @@
 ## Overview
 
 - Building RAG vector store
-- Add Agents
+- Collect the docs for RAG
