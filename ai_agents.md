@@ -4,3 +4,10 @@
 
 - Building RAG vector store
 - Add Agents
+- Use ai-agents
+
+## Details
+
+- Detail 1
+- Detail 2
+- Detail 3
