@@ -3,6 +3,7 @@
 ## Overview
 
 - Building RAG vector store
+- Collect the docs for RAG
 - Add Agents
 - Use ai-agents
 
